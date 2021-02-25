@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "JINJU's site"
 date: {{ .Date }}
 
 ---
