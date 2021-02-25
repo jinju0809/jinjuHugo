@@ -1,6 +1,6 @@
 baseURL = "https://jinju0809.github.io/"
 languageCode = "ko-kr"
-title = "My New Hugo Site"
+title = "Nobody else's"
 theme= "anatole"
 
 summarylength = 10
