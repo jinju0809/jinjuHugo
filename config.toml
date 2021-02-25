@@ -1,5 +1,5 @@
 baseURL = "https://jinju0809.github.io/"
-languageCode = "en-us"
+languageCode = "ko-kr"
 title = "My New Hugo Site"
 theme= "anatole"
 
