@@ -23,7 +23,7 @@ title = "Jinju Youn"
 author = "Jinju Youn"
 #copyright = "2021"
 description = "Welcome"
-profilePicture = "images/profile.jpg"
+profilePicture = "https://i.esdrop.com/d/m4vMsdLsOM.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
