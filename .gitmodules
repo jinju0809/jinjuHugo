@@ -1,0 +1,11 @@
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "jinju0809.github.io"]
+	path = jinju0809.github.io
+	url = https://github.com/jinju0809/jinju0809.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/jinju0809/jinju0809.github.io.git
+	branch = master
