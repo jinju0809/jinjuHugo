@@ -60,17 +60,17 @@ url = "https://de.linkedin.com/"
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/jinju0809/portfolio/tree/master"
 
 [[params.socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/_thx_a_lot_/"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "jiyoun48@gmail.com"
 
 ## Menu items
 
