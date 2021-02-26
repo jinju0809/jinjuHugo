@@ -52,15 +52,11 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
-[[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://de.linkedin.com/"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/jinju0809/portfolio/tree/master"
+url = "https://github.com/jinju0809"
 
 [[params.socialIcons]]
 icon = "fab fa-instagram"
@@ -70,7 +66,7 @@ url = "https://www.instagram.com/_thx_a_lot_/"
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "jiyoun48@gmail.com"
+url = "mailto:jiyoun48@gmail.com"
 
 ## Menu items
 
