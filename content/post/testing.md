@@ -69,9 +69,9 @@ repo에 올리면 끝! *(근데 왜 며칠이 걸렸을까?)*
 
 해당 경로를 확인해보면 content라느니, layouts라느니 하는 기본 구성이 들어가 있다. 
 
-![image-20210227161327939](C:\Users\jjyou\AppData\Roaming\Typora\typora-user-images\image-20210227161327939.png)
+![image-20210227161327939](../../static/images/image-20210227161327939.png)
 
-![image-20210227161419340](C:\Users\jjyou\AppData\Roaming\Typora\typora-user-images\image-20210227161419340.png)
+![image-20210227161419340](../../static/images/image-20210227161419340.png)
 
 이제부터 모든 작업은 c:users:내이름:project 에서 진행된다.
 
@@ -119,11 +119,11 @@ project 폴더 themes에 테마이름으로 된 폴더가 나타나면 성공!
 
 를 하면 localhost:1313에서 페이지 초안을 확인할 수 있다. -D를 붙이면 draft인 파일들도 보여주게 되는데, 이 파일들은 draft라서 실제로 내가 쓰게될 블로그에서는 보이지 않으니 빌드하기 전에 draft: true 라고 적힌 설정을 지워주자
 
-![image-20210227170618859](C:\Users\jjyou\AppData\Roaming\Typora\typora-user-images\image-20210227170618859.png)
+![image-20210227170618859](../../static/images/image-20210227170618859.png)
 
 나중의 얘기지만 나는 git에 연결하고 난 뒤에 계속 **hugo server -D**로 보는 화면과 실제 화면이 달라서 원인을 찾느라 또 헤매는데 archetypes의 default 폴더가 draft 상태여서 그랬다. 그 뒤로는 hugo server로만 확인을 했음... 
 
-![image-20210227170831720](C:\Users\jjyou\AppData\Roaming\Typora\typora-user-images\image-20210227170831720.png)
+![image-20210227170831720](../../static/images/image-20210227170831720.png)
 
 **hugo server -D**를 하고 난 뒤에 위에 보이는 이 localhost:1313 링크로 가면 내용을 볼 수 있다는 뜻이다.  (진짜 왕초보.. 야 나두!)
 
