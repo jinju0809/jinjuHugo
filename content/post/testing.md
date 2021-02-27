@@ -5,4 +5,7 @@ Description: ""
 Tags: ["Hugo", "git", "blog"]
 Categories: ["basic"]
 DisableComments: false
+​---
+# 제목만 바꿔본 첫 글!
+## 마크다운도 처음 써보고 이것저것 도전중
 ---
