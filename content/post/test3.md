@@ -47,4 +47,12 @@ https://jinju0809.github.io/images/profile.jpg 프로필 사진에 걸린 링크
 
 https://tkim.info/ko/hugo/h053-hugo%EC%99%80-typora-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%84%9C-%EC%93%B0%EA%B8%B0/
 
-검색하다가 이 블로그를 보고 따라해보았다. 이제는 나타나야 한다!
+검색하다가 이 블로그를 보고 따라해보았다. 
+
+images/image-20210227173939462.png
+
+https://jinju0809.github.io/images/profile.jpg
+
+
+
+와아아이~~ 이제 된다~~~

@@ -9,7 +9,7 @@ DisableComments: false
 
 
 
-### <u>이번 포스트는 TYPORA</u>
+### 이번 포스트는 TYPORA
 
 
 
@@ -21,3 +21,10 @@ DisableComments: false
 
 
 
+휴고에서 포스트들을 만들어 제목은 볼 수 있는데 내용은 어떻게 입력해야하지?
+
+마크다운은 써 본 적이 없는데.. 검색하니 TYPORA를 주로 많이 쓴다고 했다.
+
+TYPORA를 바로 설치했다.
+
+md 파일을 열면 
