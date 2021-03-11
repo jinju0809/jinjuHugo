@@ -2,7 +2,7 @@
 title: "이미지를 넣어보자"
 date: 2021-02-25 17:55:32+09:00
 Description: ""
-Tags: []
+Tags: ["Hugo", "blog"]
 Categories: []
 DisableComments: true
 ---
