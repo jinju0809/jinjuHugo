@@ -1,7 +1,7 @@
 baseURL = "https://jinju0809.github.io/"
 languageCode = "ko-kr"
 title = "Nobody else's"
-theme= "anatole"
+theme= "tanka"
 
 summarylength = 10
 enableEmoji = true

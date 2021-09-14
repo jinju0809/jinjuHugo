@@ -9,3 +9,6 @@
 	path = public
 	url = https://github.com/jinju0809/jinju0809.github.io.git
 	branch = master
+[submodule "thems/hugo-tanka"]
+	path = thems/hugo-tanka
+	url = https://github.com/nanxstats/hugo-tanka.git
